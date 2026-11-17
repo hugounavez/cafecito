@@ -1,0 +1,66 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Xcode
+build/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcarchive
+*.dSYM
+*.playground
+xcuserdata/
+.xcode.env.local
+
+# Swift Package Manager
+.build/
+.swiftpm/
+*.resolved
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+*.podspec.json
+
+# IDE
+.vscode/
+.idea/
+*.swiftpm
+.swiftformat
+
+# Test coverage
+coverage.xml
+*.profdata
+.coverage
+
+# Misc
+.env
+.env.local
+.env.*.local
+secrets.json
+credentials.json
+.DS_Store
+*.log
+dist/
+out/
+
+# OS specific
+thumbs.db
+Thumbs.db
